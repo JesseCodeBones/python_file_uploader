@@ -8,3 +8,5 @@ Also it support the preview and play functionality:)
 ## run
 `pip install -r requirements.txt` (only first run)  
 `python server.py`
+
+visit url: http://127.0.0.1:8080
